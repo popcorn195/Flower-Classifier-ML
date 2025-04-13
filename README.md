@@ -16,6 +16,8 @@ A **Machine Learning** project that classfies different flowers.<br>
 
 ### ✅ Prerequisites
 
+Get the training data set on : https://drive.google.com/drive/folders/1rzEFpraXXLLIGPo6F6jNEpeMOdWMgOzN
+
 Install the following:
 
 ```bash
